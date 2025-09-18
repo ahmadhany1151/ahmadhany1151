@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=120&section=header" alt="header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4493f8&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=7F3FBF&width=435&lines=Hello%2C+I'm+Ahmad+hany;Android+Developer" alt="Android Developer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=4493f8&width=435&lines=Hello%2C+I'm+Ahmad+hany;Android+Developer" alt="Android Developer"/>
 </a>
 
 <div>
@@ -9,10 +9,7 @@
 </div>
 
 ### Main Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,jetpackcompose,xml,gradle,firebase,git,github,retrofit,room,coroutines,dagger,junit,espresso,jira)](https://skillicons.dev)
-
-### Currently Studying
-[![Learning](https://skillicons.dev/icons?i=kotlinmultiplatform,docker,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,firebase,git,github,retrofit,room,coroutines,dagger,junit,espresso,jira)](https://skillicons.dev)
 
 ### Publications
 <div> 
@@ -46,4 +43,4 @@ You can find my publications on Medium and Dev.to, where I share my solutions to
 > [!IMPORTANT]  
 > <a href="[LINK_TO_YOUR_RESUME.PDF]" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4493f8&height=120&section=footer" alt="footer"/>
