@@ -9,7 +9,7 @@
 </div>
 
 ### Main Skills & Tools
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,firebase,git,github,retrofit,room,coroutines,dagger,junit,espresso,jira)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,flutter,cpp,git,github,retrofit,room,coroutines,dagger,junit,espresso,jira)](https://skillicons.dev)
 
 ### Publications
 <div> 
