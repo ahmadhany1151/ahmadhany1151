@@ -4,9 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=4493f8&width=435&lines=Hello%2C+I'm+Ahmad+hany;Android+Developer" alt="Android Developer"/>
 </a>
 
-<div>
-    <img src="./assets/about_me.gif" alt="About Me Terminal GIF"/>
-</div>
 
 ### Main Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,flutter,cpp,git,github,retrofit,room,coroutines,dagger,junit,espresso,jira)](https://skillicons.dev)
@@ -39,8 +36,6 @@ You can find my publications on Medium and Dev.to, where I share my solutions to
     </a>
 </div>
 
-### Employer?
-> [!IMPORTANT]  
-> <a href="[LINK_TO_YOUR_RESUME.PDF]" download>Download my resume</a>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4493f8&height=120&section=footer" alt="footer"/>
